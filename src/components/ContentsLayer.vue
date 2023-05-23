@@ -8,7 +8,7 @@
 </template>
 <script>
 import {mapGetters, mapActions} from 'vuex';
-
+//test
 export default {
 	computed: {
 		...mapGetters(['getPageName'])
